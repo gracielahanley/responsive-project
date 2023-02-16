@@ -84,15 +84,11 @@ h3 {
 p {
   font-size: 20px;
 }
-.link-type {
-  margin-bottom: ;
-}
 .yogaap {
   margin-top: 30px;
 }
 
 @media (max-width: 600px) {
-  }
   .middle-text {
     text-align: center;
   }
