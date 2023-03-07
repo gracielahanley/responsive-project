@@ -7,6 +7,8 @@
 body {
   margin: 60px auto;
   max-width: 1200px;
+  background: rgb(247,239,229);
+background: linear-gradient(90deg, rgba(247,239,229,1) 32%, rgba(195,172,208,1) 67%, rgba(103,65,136,1) 100%);
 }
 
 h1,
@@ -84,8 +86,11 @@ h3 {
 p {
   font-size: 20px;
 }
-.yogaap {
+.weatherapp {
   margin-top: 30px;
+}
+.homepagepic {
+  background-color: red;
 }
 
 @media (max-width: 600px) {
